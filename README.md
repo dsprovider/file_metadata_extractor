@@ -62,9 +62,9 @@ This tool is designed for:
 
 1. Clone the Repository:
 
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/dsprovider/file_metadata_extractor.git
 
-cd yourrepository
+cd file_metadata_extractor
 
 2. Configure SQL Server
 
