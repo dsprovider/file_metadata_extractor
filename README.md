@@ -9,6 +9,7 @@ Welcome to the File Metadata Extractor Tool! 🎉 This C# application allows you
 - Recursive File Processing: 🌀 iterates through all subfolders to find and process files.
   
 - Metadata Extraction: 📊 retrieves the following metadata for each file:
+  
   [+] Size 📏
   
   [+] Extension 🔠
