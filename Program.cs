@@ -56,8 +56,6 @@ public class FolderIterator
         // ---------------- 6. Print list of exceptions ----------------------------------------
         PrintExceptionsList(exceptionsList);
 
-        //Console.WriteLine(GenerateTableName());
-
     }
     //===============================================================================================================================================
     //MAIN METHODS ==================================================================================================================================
@@ -364,7 +362,6 @@ public class FolderIterator
 
             md5Hash = CalculateMD5Hash(filePath);
             Console.WriteLine("\t\t" + "[M] - MD5 Hash: " + md5Hash);
-            //Console.WriteLine();
         }
         catch (Exception ex)
         {
