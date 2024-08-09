@@ -23,7 +23,7 @@ public class FolderIterator
 
         // ---------------- 2. Establish connection with SQL Server ----------------------------------------
         // Connection string with Windows authentication
-        string connectionString = "Data Source=DESKTOP-30J9E2P\\SQLEXPRESS;Initial Catalog=MyWork_20221213;Integrated Security=True";
+        string connectionString = "Data Source=SQL_SERVER_PATH_HERE;Initial Catalog=DATABASE_NAME_HERE;Integrated Security=True";
         try
         {
             using (SqlConnection connection = new SqlConnection(connectionString))
