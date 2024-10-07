@@ -1,10 +1,10 @@
-📁 File Metadata Extractor Tool
+# 📁 File Metadata Extractor Tool
 
 Welcome to the File Metadata Extractor Tool! 🎉 This C# application allows you to extract and analyze metadata from files within a specified folder, including all its subfolders. The extracted metadata is then stored in a SQL Server database for further analysis and record-keeping.
 
 
 
-🌟 Features
+# 🌟 Features
 
 - Recursive File Processing: 🌀 iterates through all subfolders to find and process files.
   
@@ -36,7 +36,7 @@ Welcome to the File Metadata Extractor Tool! 🎉 This C# application allows you
 
 
 
-🎯 Purpose
+# 🎯 Purpose
 
 This tool is designed for:
 
@@ -48,7 +48,7 @@ This tool is designed for:
 
 
 
-🛠️ Requirements
+# 🛠️ Requirements
 
 - .NET 6.0: Ensure you have the .NET 6.0 runtime installed.
   
@@ -58,7 +58,7 @@ This tool is designed for:
 
 
 
-🏗️ Installation
+# 🏗️ Installation
 
 1. Clone the Repository:
 
@@ -72,7 +72,7 @@ Make sure you have an existing SQL Server database where metadata tables can be 
 
 
 
-🚀 Usage
+# 🚀 Usage
 
 1. Run the Program:
    
@@ -88,7 +88,7 @@ After processing, the console will display a summary of the number of files proc
 
 
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 
